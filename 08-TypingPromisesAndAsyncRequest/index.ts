@@ -1,1 +1,2 @@
-console.log('zsh deneme');
+
+console.log('deneme 3');
